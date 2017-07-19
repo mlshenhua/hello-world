@@ -1,2 +1,2 @@
 # hello-world
-Just anothor repository
+hi man
